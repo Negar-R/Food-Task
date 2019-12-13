@@ -1,0 +1,12 @@
+E:\Nomatec\FoodTask\Food.Data\bin\Debug\netstandard2.0\Food.Data.deps.json
+E:\Nomatec\FoodTask\Food.Data\bin\Debug\netstandard2.0\Food.Data.dll
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.csprojAssemblyReference.cache
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.csproj.CoreCompileInputs.cache
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.AssemblyInfoInputs.cache
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.AssemblyInfo.cs
+E:\Nomatec\FoodTask\Food.Data\bin\Debug\netstandard2.0\Food.Data.pdb
+E:\Nomatec\FoodTask\Food.Data\bin\Debug\netstandard2.0\Food.Entities.dll
+E:\Nomatec\FoodTask\Food.Data\bin\Debug\netstandard2.0\Food.Entities.pdb
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.csproj.CopyComplete
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.dll
+E:\Nomatec\FoodTask\Food.Data\obj\Debug\netstandard2.0\Food.Data.pdb
