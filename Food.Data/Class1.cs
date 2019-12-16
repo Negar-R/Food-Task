@@ -4,5 +4,6 @@ namespace Food.Data
 {
     public class Class1
     {
+	//Alaki
     }
 }
